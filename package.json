@@ -55,8 +55,9 @@
   },
   "engineStrict": true,
   "engines": {
-    "node": ">=8.11.2",
-    "npm": ">=3.0"
+    "node": "13.1.0",
+    "npm": "6.12.1",
+    "yarn": "1.19.1"
   },
   "browserslist": [
     "IE 11",
